@@ -17,7 +17,6 @@ for ( let propriedade in carro ) {
     } else {
 
         console.log(propriedade + ": " + carro[propriedade]);
-
     }
 
 }
