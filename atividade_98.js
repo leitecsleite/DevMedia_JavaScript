@@ -5,3 +5,18 @@ let funcionarios = [
     {id: 4, nome: "Marlon", habilitado: false},
     {id: 5, nome: "Ana", habilitado: false},
 ];
+
+
+let contador = 0;
+let encontrouHabilitado = false; 
+
+
+do{
+    let funcionario = funcionarios[contador]; 
+
+    if(funcionario.habilitado == true){
+        console.log("Funcionário habilitado encontrado: " +)
+    }
+
+     
+}while(contador < funcionarios.length)

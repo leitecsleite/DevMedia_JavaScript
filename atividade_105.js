@@ -4,7 +4,7 @@ var usuario = {
     idade: 17
 };
 
-var atendeAClassificacaoEtaria = usuario.idade >= 18
+var atendeAClassificacaoEtaria = usuario.idade >= 18;
 
 if ( atendeAClassificacaoEtaria === true ) {
 
