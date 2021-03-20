@@ -16,4 +16,5 @@ for (let produto of produtos_array){
     let novo_preco = preco - valor_desconto; 
 
     console.log("Novo valor do produto "+ nome + " : R$ " + novo_preco)
+    
 }
